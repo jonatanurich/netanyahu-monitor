@@ -1,0 +1,4 @@
+openai-whisper
+yt-dlp
+requests
+torch --index-url https://download.pytorch.org/whl/cpu
